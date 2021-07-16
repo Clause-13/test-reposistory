@@ -1,0 +1,6 @@
+how to migratte tdatabase to sql:
+(djenv) (base) nicholasbartlett@Nicholass-MacBook-Pro-3 proTwo % python3 manage.py migrate              
+
+(djenv) (base) nicholasbartlett@Nicholass-MacBook-Pro-3 proTwo % python3 manage.py makemigrations appTwo
+
+(djenv) (base) nicholasbartlett@Nicholass-MacBook-Pro-3 proTwo % python3 manage.py createsuperuser
